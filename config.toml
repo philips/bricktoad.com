@@ -1,0 +1,17 @@
+baseURL = 'http://bricktoad.com/'
+languageCode = 'en-us'
+title = 'Brick Toad'
+theme = 'hugo-xmin'
+
+[menu]
+[[menu.main]]
+ name = "Home"
+ url = ""
+ weight = 1
+[[menu.main]]
+ name = "About"
+ url = "about/"
+ weight = 2
+[[menu.main]]
+ name = "Subscribe"
+ url = "index.xml"
