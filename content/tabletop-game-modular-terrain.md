@@ -7,6 +7,7 @@ I like to play tabletop RPGs with my family like [Hero Kids](http://herokidsrpg.
 So, over a few weeks I learned Bricklink Studio and came up with my first design heavily inspired by some of the ideas below. My main goal in building this up in studio was to be able to order the correct number of parts.
 
 
+Haunted-Shore-Tabletop-Game Modular-Terrain-Brick-Toad.xml
 - [Instructions](/Haunted-Shore-Tabletop-Game-Modular-Terrain-Brick-Toad.pdf)
 - [Inventory](/Haunted-Shore-Tabletop-Game-Modular-Terrain-Brick-Toad.xml)
 
