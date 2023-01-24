@@ -7,7 +7,7 @@ I like to play tabletop RPGs with my family like [Hero Kids](http://herokidsrpg.
 So, over a few weeks I learned Bricklink Studio and came up with my first design heavily inspired by some of the ideas below. My main goal in building this up in studio was to be able to order the correct number of parts.
 
 
-Haunted-Shore-Tabletop-Game Modular-Terrain-Brick-Toad.xml
+- [Rebrickable page](https://rebrickable.com/mocs/MOC-136127/bricktoad/haunted-shore-tabletop-game-modular-terrain-brick-toad/)
 - [Instructions](/Haunted-Shore-Tabletop-Game-Modular-Terrain-Brick-Toad.pdf)
 - [Inventory](/Haunted-Shore-Tabletop-Game-Modular-Terrain-Brick-Toad.xml)
 
@@ -15,7 +15,7 @@ Haunted-Shore-Tabletop-Game Modular-Terrain-Brick-Toad.xml
 
 **Inspiration**
 
-Obviously, a big interest in using Lego in a tabletop game is as environment pieces and terrain. And there have been a number of really inspiring designs I have seen:
+Using Lego in a tabletop game makes a lot of sense for characters and terrain because of its flexibility. And in there have been a number of really inspiring designs I have seen:
 
 - [u/lurker9061](https://www.reddit.com/r/legodnd/comments/z7aiod/modular_tile_system_i_built_for_dnd_contest/)
 - [u/sunkintotheswamp82](https://www.reddit.com/r/legodnd/comments/z5syqc/modular_terrain_tiles_baseplates_and_elevation/)
