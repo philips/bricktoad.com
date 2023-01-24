@@ -15,7 +15,7 @@ So, over a few weeks I learned Bricklink Studio and came up with my first design
 
 **Inspiration**
 
-Using Lego in a tabletop game makes a lot of sense for characters and terrain because of its flexibility. And in there have been a number of really inspiring designs I have seen:
+Using Lego in a tabletop game makes a lot of sense for characters and terrain because of its flexibility. And there have been a number of really inspiring designs I have seen:
 
 - [u/lurker9061](https://www.reddit.com/r/legodnd/comments/z7aiod/modular_tile_system_i_built_for_dnd_contest/)
 - [u/sunkintotheswamp82](https://www.reddit.com/r/legodnd/comments/z5syqc/modular_terrain_tiles_baseplates_and_elevation/)
