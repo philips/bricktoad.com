@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Home on Brick Toad</title>
+    <link>http://bricktoad.com/</link>
+    <description>Recent content in Home on Brick Toad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://bricktoad.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Brick Toad</title>
+      <link>http://bricktoad.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bricktoad.com/about/</guid>
+      <description>Brick Toad is an amateur Lego designer that grew up on late 80 and early 90 themes like Castle, Blacktron, Blacktron 2, and M-Tron. I recently rediscovered my love for Lego after many decades and I am excited about the new creative tools like Bricklink Studio and Rebrickable.
+Philosophically I like kits that have lots of play potential and are small and moduler. When making designs I try to use common elements in simple ways while keeping an eye on price of elements.</description>
+    </item>
+    
+    <item>
+      <title>Tabletop Game Modular Terrain</title>
+      <link>http://bricktoad.com/tabletop-game-modular-terrain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bricktoad.com/tabletop-game-modular-terrain/</guid>
+      <description>I like to play tabletop RPGs with my family like Hero Kids or DND. Our family also has a love for Lego and I was really interested in discovering the /r/legodnd subreddit.
+So, over a few weeks I learned Bricklink Studio and came up with my first design heavily inspired by some of the ideas below. My main goal in building this up in studio was to be able to order the correct number of parts.</description>
+    </item>
+    
   </channel>
 </rss>
