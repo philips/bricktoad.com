@@ -15,6 +15,8 @@ This design has:
 - Tent, raft, mushrooms, flowers and a tree
 - Skeleton, toad, and chicken
 
+**Links** 
+
 - [Rebrickable page](https://rebrickable.com/mocs/MOC-136127/bricktoad/haunted-shore-tabletop-game-modular-terrain-brick-toad/)
 - [Instructions](/Haunted-Shore-Tabletop-Game-Modular-Terrain-Brick-Toad.pdf)
 - [Inventory](/Haunted-Shore-Tabletop-Game-Modular-Terrain-Brick-Toad.xml)
