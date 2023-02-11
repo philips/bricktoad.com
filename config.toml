@@ -15,3 +15,9 @@ theme = 'hugo-xmin'
 [[menu.main]]
  name = "Subscribe"
  url = "index.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

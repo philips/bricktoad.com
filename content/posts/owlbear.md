@@ -27,6 +27,10 @@ And I think the final design has quite a bit of character and is compact enough 
 ![](/owlbear_pose.png)
 ![](/owlbear.png)
 
+<video width="320" height="240" controls>
+  <source src="/owlbear.mp4" type="video/mp4">
+</video>
+
 ## Design Challenges
 
 Some challenges I was trying to tackle with the design:
