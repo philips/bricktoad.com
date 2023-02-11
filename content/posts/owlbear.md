@@ -46,7 +46,7 @@ Getting the piece count down enough that the Stud.io stability checker wasn't th
 
 ## Head Design Interation
 
-The first design is the simplest and lightest but obviously that 1x1 ball joint is pretty week.
+The first design is simple but obviously that 1x1 ball joint is pretty weak. So I tried to beef up the joint without changing the design too much. 
 
 ![](/owlbear4.png)
 
@@ -58,6 +58,6 @@ The third design tries to beef everything up with the technic balls but the trou
 
 ![](/owlbear7.png)
 
-The final design which is only a "caution" in Stud.io for stability so I think it should work OK!
+The final design is way lighter and simpler is only a "caution" in Stud.io for stability so I think it should work OK!
 
 ![](/owlbear.png)
