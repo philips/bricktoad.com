@@ -61,3 +61,5 @@ The third design tries to beef everything up with the technic balls but the trou
 The final design is way lighter and simpler is only a "caution" in Stud.io for stability so I think it should work OK!
 
 ![](/owlbear.png)
+
+A [redditor](https://www.reddit.com/r/lego/comments/10zpuyn/comment/j84yscb/?utm_source=reddit&utm_medium=web2x&context=3) also had a suggestion to swap out the 1x1 ball with the 1x2 mixel 14417 instead. This with a couple of other adjustments got the Bricklink cost down to $10 for this model.
