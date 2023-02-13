@@ -1,5 +1,6 @@
 ---
-title: Tabletop Game Modular Terrain
+title: Haunted Shore Tabletop Game Modular Terrain
+date: 2023-01-20:22:20-08:00
 ---
 
 I like to play tabletop RPGs with my family like [Hero Kids](http://herokidsrpg.blogspot.com/p/hero-kids-overview.html) or DND. Our family also has a love for Lego and I was really interested in discovering the [/r/legodnd subreddit](https://reddit.com/r/legodnd).
