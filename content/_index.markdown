@@ -6,6 +6,9 @@ title: Home
 
 Bricktoad creates building brick (e.g. Lego) designs with an emphasis on playful build features and tabletop game terrain.
 
+- [Youtube](http://youtube.com/@bricktoadbuild)
+- [Instagram](http://instagram.com/bricktoadbuild/)
+
 ## Subscribe to Newsletter
 
 Get an email when a new build or article is posted.
