@@ -4,8 +4,7 @@ title: Home
 
 Bricktoad creates building brick (e.g. Lego) designs with an emphasis on playful build features and tabletop game terrain.
 
-
-## Subscribe to Email List
+## Subscribe to Newsletter
 
 Get an email when a new build or article is posted.
 
@@ -21,3 +20,5 @@ Get an email when a new build or article is posted.
   <input type="submit" value="Subscribe" />
   <p><small>No spam, promise</small></p>
 </form>
+
+## Past Builds
