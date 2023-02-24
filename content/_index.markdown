@@ -8,6 +8,7 @@ Bricktoad creates building brick (e.g. Lego) designs with an emphasis on playful
 
 - [Youtube](http://youtube.com/@bricktoadbuild)
 - [Instagram](http://instagram.com/bricktoadbuild/)
+- [Rebrickable](https://rebrickable.com/users/bricktoad/mocs/)
 
 ## Subscribe to Newsletter
 
