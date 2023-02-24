@@ -9,7 +9,7 @@ My interest in Norse Mythology was recently rekindled by Neil Gaiman's extremely
 
 I spent a few hours just playing with the parts in Stud.io and familiarizing myself with the inventory. There are quite a number of interesting parts but I found myself wishing there was a bit more variety in the types of clip pieces for the scenes I was making.
 
-<!-- - [Rebrickable](https://rebrickable.com/mocs/MOC-136532/bricktoad/minotaur/#parts)-->
+- [Rebrickable](https://rebrickable.com/mocs/MOC-139627/bricktoad/mead-of-poetry-31143-birdhouse-alt-build/#details)
 - [Instructions](/mead-of-poetry.pdf)
 - [Youtube](https://youtu.be/j2EgRnhtzD0)
 
