@@ -9,7 +9,7 @@ The set has a number of clips but few options to go "off system" with the clips.
 
 <!-- - [Rebrickable](https://rebrickable.com/mocs/MOC-139627/bricktoad/mead-of-poetry-31143-birdhouse-alt-build/#details) -->
 - [Instructions](/11033-throne-of-swords.pdf)
-- [Youtube](https://youtu.be/j2EgRnhtzD0)
+- [Youtube](https://www.youtube.com/watch?v=pW-d5AhQy2g)
 - [Inventory](/11033-throne-of-swords.xml)
 
 {{< figure src="/11033-throne-of-swords.png" title="" >}}
