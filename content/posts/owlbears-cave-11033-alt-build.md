@@ -13,7 +13,7 @@ Included in this MOC are also two Tree-like "Ent" creatures and a cave with a hi
 
 <!-- - [PDF Instructions](/11033-owlbears-cave.pdf) -->
 - [Rebrickable](https://rebrickable.com/mocs/MOC-141709/bricktoad/owlbears-cave-11033-alt-build/)
-- [Youtube Instructions](https://youtu.be/wdVnY6GdaqQ)
+- [Youtube Instructions](https://youtu.be/xeODGW0PN-E)
 - [Bricklink XML Inventory](/11033-owlbears-cave.xml)
 
 {{< figure src="/11033-owlbears-cave.png" title="" >}}
