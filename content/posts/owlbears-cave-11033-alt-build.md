@@ -11,9 +11,9 @@ Included in this MOC are also two Tree-like "Ent" creatures and a cave with a hi
 
 > Owlbears and Ents have always been allies. At their most vulnerable, when they have laid a clutch of eggs, a mother Owlbear has called upon the Ents to protect her clutch. The Ent Queen provided not only protection but a hidden incubation cave under a rock cliff to keep the eggs safe.
 
-<!-- - [Rebrickable](https://rebrickable.com/mocs/MOC-139627/bricktoad/mead-of-poetry-31143-birdhouse-alt-build/#details) -->
 <!-- - [PDF Instructions](/11033-owlbears-cave.pdf) -->
-- [Youtube Instructions](https://youtu.be/lZ0VTKMMVFM)
+- [Rebrickable](https://rebrickable.com/mocs/MOC-141709/bricktoad/owlbears-cave-11033-alt-build/)
+- [Youtube Instructions](https://youtu.be/wdVnY6GdaqQ)
 - [Bricklink XML Inventory](/11033-owlbears-cave.xml)
 
 {{< figure src="/11033-owlbears-cave.png" title="" >}}
