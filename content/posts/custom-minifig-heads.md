@@ -7,7 +7,7 @@ One of the things I like about Lego and TTRPG is the DIY spirit of the hobbies. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TxK-rkMM9ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unfortunately, I really struggled to get good results with my Brother HL2270DW printer until I busted out the manual and started to play with the advanced printer settings. After many many trials and errors I got a great result with these settings:
+Unfortunately, I really struggled to get good results with my Brother HL2270DW printer until I busted out the manual and started to play with the advanced printer settings. The problems I was encountering were ghosting and tearing of the toner ([see this photo](/custom-minifig-heads5.jpeg)). After many many trials and errors I got a great result with these settings:
 
 - Manual feed the transfer paper
 - Media type: Thick Paper
