@@ -5,8 +5,13 @@ date: 2023-01-27T11:22:20-08:00
 
 The Minotaur beast needs no introduction. But, I was inspired by this build from the Hero Kids [Maze of the Minotaur](https://www.drivethrurpg.com/product/107564/Hero-Kids--Fantasy-Premium-Adventure--Maze-of-the-Minotaur) and the cow in the Lego Creator 3-in-1 [31132 Viking Ship and the Midgard Serpent](https://rebrickable.com/sets/31132-1/viking-ship-and-the-midgard-serpent/?inventory=1#parts).
 
-- [Rebrickable](https://rebrickable.com/mocs/MOC-136532/bricktoad/minotaur/#parts)
-- [Instructions](/Minotaur.pdf)
-- [Inventory](/Minotaur.xml)
+- [Brickery Crowdfunding for the Minotaur Set](https://www.brickery.com/en/us/projects/minotaur)
+- [Rebrickable Instructions](https://rebrickable.com/mocs/MOC-136532/bricktoad/minotaur/#parts)
+- [PDF Instructions](/Minotaur.pdf)
+- [Parts Inventory](/Minotaur.xml)
 
 ![](/Minotaur.png)
+![](/minotaur-build-01.jpeg)
+![](/minotaur-build-02.jpeg)
+![](/minotaur-build-03.jpeg)
+![](/minotaur-build-04.jpeg)
