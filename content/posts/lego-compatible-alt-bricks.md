@@ -36,7 +36,7 @@ The Lego minifigure was patented in 1978 in the US and that patent has expired (
 
 {{< figure src="/lego-compatible-usd253711.png" title="The patent illustration for the Lego minifigure." >}}
 
-However, since that minifigure patent expired The Lego Group has brought different cases across the world under copyright law instead. For example, Lego won a case in late 2020 against a company called Zuru (see [Lego v Zuru January 15, 2020](/19-2122-2020-01-15.pdf)) which was making a line of action figures that were in the same scale as the Lego minifigure. The court uses this test to decide whether Zuru was infringing on the Lego minifigure copyright:
+However, since that minifigure patent expired The Lego Group has brought different cases across the world under copyright law instead. For example, Lego won a case in 2020 against a company called Zuru (see [Lego v Zuru January 15, 2020](/19-2122-2020-01-15.pdf)) which was making a line of action figures that were in the same scale as the Lego minifigure. The court uses this test to decide whether Zuru was infringing on the Lego minifigure copyright:
 
 > The standard test for substantial similarity between two items is whether an “ordinary observer, unless he set out to detect the disparities, would be disposed to overlook them, and regard [the] aesthetic appeal as the same.” If “an average lay observer would recognize the alleged copy as having been appropriated from the copyrighted work,” then the two products are substantially similar.
 

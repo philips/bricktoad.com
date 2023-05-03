@@ -1,5 +1,5 @@
 ---
-title: "MOC Adorablin Engineer"
+title: "Adorablin Engineer MOC"
 date: 2023-04-29T08:32:06-07:00
 categories: [MOC]
 ---
