@@ -1,6 +1,7 @@
 ---
 title: "MOC Crowdfunding Thoughts"
 date: 2023-04-27T13:53:07-07:00
+categories: [business, other]
 ---
 
 **Short version:** I uploaded my Minotaur design to a Lego-compatible brick Crowdfunding site

@@ -1,6 +1,7 @@
 ---
 title: "Throne of Swords - 11033 Alt Build"
 date: 2023-03-02T10:47:43-08:00
+categories: [MOC]
 ---
 
 This post was inspired by a thread about the new Classic Creative Fantasy Universe ([Lego.com](https://www.lego.com/en-us/product/creative-fantasy-universe-11033))and the number of swords it contains (12). Obviously, after taking a look at the set inventory, I needed to build a throne out of swords.

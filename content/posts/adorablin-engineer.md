@@ -1,6 +1,7 @@
 ---
 title: "MOC Adorablin Engineer"
 date: 2023-04-29T08:32:06-07:00
+categories: [MOC]
 ---
 
 I recently picked up [Adorablins by Dice Up Games](https://www.diceupgames.com/adorablins/) and it is an inspiring kids TTRPG. My kid really likes the characters so I set out to try and build a tiny model that would fit inside of the tin with the dice and cards.

@@ -1,6 +1,7 @@
 ---
 title: Custom Minifig Heads and Brother HL2270DW Transfer Paper
 date: 2023-04-05T10:39:25-07:00
+categories: [DIY, other]
 ---
 
 One of the things I like about Lego and TTRPG is the DIY spirit of the hobbies. And, I was very inspired by this video by Crafsman about making custom Lego heads using a laser printer and transfer paper:

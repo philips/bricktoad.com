@@ -1,6 +1,7 @@
 ---
 title: "Owlbear MOC"
 date: 2023-02-09T18:39:24-08:00
+categories: [MOC]
 ---
 
 An Owlbear is a Dungeons and Dragon bestiary staple: a straightforward combination of an owl and bear. Building an owlbear was inspired by the vegan Owlbear from [Dungeon Academy](https://www.harpercollins.com/products/dungeons-dragons-dungeon-academy-no-humans-allowed-madeleine-roux).

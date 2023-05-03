@@ -1,6 +1,7 @@
 ---
 title: "Skeleton Crew Raft"
 date: 2023-01-25T11:31:59-08:00
+categories: [MOC]
 ---
 
 I like to play tabletop RPGs with my family. And this build is inspired by a skeleton curse of a raft operator from [DnD Adventure Club](https://dndadventureclub.com).

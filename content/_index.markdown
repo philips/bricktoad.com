@@ -28,4 +28,5 @@ Get an email when a new build or article is posted.
   <p><small>No spam, promise</small></p>
 </form>
 
-## Past Builds
+## Past Posts
+

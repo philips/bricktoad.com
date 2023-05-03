@@ -1,6 +1,7 @@
 ---
 title: "Mead of Poetry - Lego Creator 3-in-1 Birdhouse Alt Build"
 date: 2023-02-22T11:34:14-08:00
+categories: [MOC]
 ---
 
 My interest in Norse Mythology was recently rekindled by Neil Gaiman's extremely approachable (and funny!) book titled "Norse Mythology" ([Bookshop](https://bookshop.org/a/91498/9780393356182), [Amazon](https://amzn.to/3ImwW12)). And when considering an alternative build of [Lego's Creator 3-in-1 31143 Bird House](https://click.linksynergy.com/link?id=2kje9Jnd82k&offerid=1182088.31143&type=2&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fbirdhouse-31143) my mind was drawn to the mythical monsters from those Norse myths.

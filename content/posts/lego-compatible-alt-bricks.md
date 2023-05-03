@@ -1,6 +1,7 @@
 ---
 title: "Lego Compatible: The Intellectual Property Debate of Alternative Bricks"
 date: 2023-05-03T09:03:31-07:00
+categories: [business, other]
 ---
 
 We may call them alternative bricks, Lego-compatible bricks, brick building toys, Lego clones, etc but it all expresses the same basic idea: an element not manufactured by The Lego Group. Are they good? Do they harm consumers or The Lego Group? Read on.
