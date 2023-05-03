@@ -30,7 +30,7 @@ Overall, I find this sort of intellectual property behavior pretty repugnant.
 
 ### The Edge of Artistic Expression
 
-I do not support cloning non-functional aspects of Lego products. For example, I don't think it is OK that brands are copying Lego set designs and instructions 1-for-1. But, the minifigure is an example of a fuzzy edge where reasonable people can disagree on whether it is functional and patentable or an artistic expression that should fall under copyright.
+I do not support cloning non-functional aspects of Lego products. For example, I don't think it is OK that brands are copying Lego set designs, prints/stickers, and instructions 1-for-1. But, the minifigure is an example of a fuzzy edge where reasonable people can disagree on whether it is functional and patentable or an artistic expression that should fall under copyright.
 
 The Lego minifigure was patented in 1978 in the US and that patent has expired (see [US Design Patent 253711](/USD253711.pdf)). 
 
