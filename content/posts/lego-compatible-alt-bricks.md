@@ -53,3 +53,5 @@ That said it isn't all on Lego: the length of Copyright in the United States is 
 My hope for the future is that Lego continues to build great toys. I also hope they get their pricing under control and improve their pick a brick offering. There continues to be a noticeable rise in Lego set prices and sizes which I know prices some folks out of the hobby. And the fact I can't upload a digital design to a Lego website and purchase the parts in a simple manner drives me to alternative brands that have this feature at a fair price.
 
 The only way I think Lego will get their pricing and features under control is they see threats from the alternative brands. So, I hope those brands continue to push them to compete. And I hope our intellectual property laws start implementing shorter expiration timelines too.
+
+{{< figure src="/lego-compatible-tyco-space-lego-space.jpeg" title="My childhood minifigures: Tyco space figure and Lego Blacktron figure." >}}
