@@ -39,7 +39,7 @@ Not everything was perfect with my Webrick order however. I had three issues:
 
 ### Conclusion
 
-Overall, I am happy with my experience with Webrick and will buy from them again. And I really hope Webrick continues to be successful. I also would love to see The Lego Group start to offer a competing service to enable MOC designers to build their vision directly from a digital design and not their clunky user experience.
+Overall, I am happy with my experience with Webrick and will buy from them again. And I really hope Webrick continues to be successful.
 
 This post was not sponsored or reviewed by Webrick. All parts were paid for on my own.
 
