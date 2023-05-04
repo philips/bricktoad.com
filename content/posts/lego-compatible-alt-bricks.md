@@ -1,5 +1,5 @@
 ---
-title: "Lego Compatible: The Intellectual Property Debate of Alternative Bricks"
+title: "Lego Compatible: The Intellectual Property Cases of Alternative Bricks"
 date: 2023-05-03T09:03:31-07:00
 categories: [business, other]
 images:
