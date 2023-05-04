@@ -52,7 +52,7 @@ I love Lego. I think they build great toys and the Lego community is a river of 
 
 That said it isn't all on Lego: the length of Copyright in the United States is out of control at 95 to 120 years. The intent of copyright is for a limited monopoly on creative works. And, frankly, if I can't make a copy of stories, movies, or toys from my childhood to give to my grandchildren before I die without breaking the law then the copyright length is too long. The original length of 28 years still feels right for this obvious use case.
 
-My hope for the future is that Lego continues to build great toys. I also hope they get their pricing under control and improve their pick a brick offering. There continues to be a noticeable rise in Lego set prices and sizes which I know prices some folks out of the hobby. And the fact I can't upload a digital design to a Lego website and purchase the parts in a simple manner drives me to alternative brands that have this feature at a fair price.
+My hope for the future is that Lego continues to build great toys. I also hope they get their pricing under control; there continues to be a noticeable rise in Lego set prices and sizes which I know prices some folks out of the hobby. Further, for MOC builders, I hope they improve their pick a brick offering to enable CSV/XML/LDR part inventory upload.
 
 The only way I think Lego will get their pricing and features under control is they see threats from the alternative brands. So, I hope those brands continue to push them to compete. And I hope our intellectual property laws start implementing shorter expiration timelines too.
 
