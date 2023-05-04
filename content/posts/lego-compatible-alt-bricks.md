@@ -22,7 +22,12 @@ This brand from my childhood, Tyco, ended up winning against Lego in 1986 (see [
 
 Philosophically, I do believe that anyone should be able to manufacture Lego system compatible elements. Quite simply the Lego brick should belong to the all people on the planet at this point. Why? Because, the purpose of our intellectual property laws, like copyright and patents, is to incentivize invention by giving people a limited monopoly on an idea. And the Lego patents expired decades ago so Lego Group's monopoly on this intellectual property, rightfully, should end. The intent and purpose of patent/copyright expirations is to enable society to build on top of inventions and as a result lower prices and increase availability for consumers.
 
-To illustrate the importance of being able to build on the inventions of others look no further than the history of... the Lego brick patents. The Lego patents build upon a design first introduced in Britain by Harry Fisher Page and a company called Kiddicraft ([see Great Britain patent #529580](/GB529580A.pdf)).
+To illustrate the importance of being able to build on the inventions of others look no further than the history of... the Lego brick patents. The Lego patents build upon a design first introduced in Britain by Harry Fisher Page and a company called Kiddicraft ([see Great Britain patent #529580](/GB529580A.pdf)). Lego improved on this design in a variety of ways; most notably in the "tube" patent (see [US patent 3005282](/US3005282.pdf)).
+
+The Lego Group puts a bit of an interesting spin on this story with [their history website](https://www.lego.com/en-us/history/articles/c-automatic-binding-bricks):
+
+> A Briton, Hilary Fisher Page, and his company Kiddicraft has invented the plastic bricks that Ole Kirk and his son Godtfred are presented with. In the late 1950s, the LEGO Group contacts Kiddicraft to ask whether they object to the LEGO® brick. They do not. On the contrary, they wish the company good luck with the bricks, as they have not enjoyed much success with their product. In 1981, the LEGO Group purchases the rights to the Kiddicraft bricks and trademark from the descendants of Hilary Fisher Page.
+
 
 {{< figure src="/lego-compatible-kiddicraft.png" title="The patent illustration from Kiddicraft / Harry Fisher Page in 1940s" >}}
 
