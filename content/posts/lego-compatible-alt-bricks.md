@@ -65,6 +65,7 @@ The only way I think Lego will get their pricing and features under control is t
 
 ### Other Resources
 
+- [The LEGO BRICK in the Borderzone Between forms of Protection](https://gupea.ub.gu.se/handle/2077/1938) ([archive](/200544.pdf))
 - [The Chaotic Evolution of LEGO Bricks... by SpitBrix](https://www.youtube.com/watch?v=N6YmShVR5bc)
 - [Lego Clone on Wikipedia](https://en.wikipedia.org/wiki/Lego_clone)
 - [The Lego Case T-515/19: A building block castle built up on sand](https://ipkitten.blogspot.com/2021/04/guest-post-lego-case-t-51519-building.html)
