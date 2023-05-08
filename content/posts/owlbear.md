@@ -8,10 +8,11 @@ images:
 
 An Owlbear is a Dungeons and Dragon bestiary staple: a straightforward combination of an owl and bear. Building an owlbear was inspired by the vegan Owlbear from [Dungeon Academy](https://www.harpercollins.com/products/dungeons-dragons-dungeon-academy-no-humans-allowed-madeleine-roux).
 
-- [Buy on DriveThruRPG](https://www.drivethrurpg.com/product/435645/Brick-Built-Owlbear)
-- [Rebrickable](https://rebrickable.com/mocs/MOC-138217/bricktoad/owlbear/#details)
 - [Instructions](/owlbear.pdf)
+- [Buy Parts on Webrick.com](https://www.webrick.com/wp_collection/share/ye4GwcwcevXzEz9se5VG72JYZxHlmTyl/#aid=bricktoad)
 - [Inventory](/owlbear.xml)
+- [Rebrickable](https://rebrickable.com/mocs/MOC-138217/bricktoad/owlbear/#details)
+
 
 [![](/owlbear-cover.png)](/owlbear.pdf)
 
