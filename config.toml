@@ -12,9 +12,6 @@ theme = 'hugo-xmin'
  name = "About"
  url = "about/"
  weight = 2
-[[menu.main]]
- name = "Subscribe"
- url = "index.xml"
 
 [markup]
   [markup.goldmark]
