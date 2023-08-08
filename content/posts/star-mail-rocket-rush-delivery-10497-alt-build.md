@@ -14,8 +14,9 @@ This build is called "Rocket Rush Delivery" and is inspired by the classic [897-
 
 - [Studio File](/star-mail-rocket-rush-delivery-10497-alt-build.io)
 - [PDF Instructions](/star-mail-rocket-rush-delivery-10497-alt-build.pdf)
+- [Rebrickable](https://rebrickable.com/mocs/MOC-155654/bricktoad/star-mail-rocket-rush-delivery-10497-alt-build/#details)
 
 **Acknowledgments**
 
-Thanks to vstarvan for the background
-Thanks to roddlez for the Star Mail corner logo
+- Thanks to vstarvan for the background
+- Thanks to roddlez for the Star Mail corner logo
