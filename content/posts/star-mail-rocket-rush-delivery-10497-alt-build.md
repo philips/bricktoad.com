@@ -6,7 +6,7 @@ images:
 - star-mail-rocket-rush-delivery-10497-alt-build.png
 ---
 
-Star Mail is a fan built theme that imagines a world of competing space parcel delivery companies. It spawned out of a discussion I started in the [R.R. Slugger](https://www.youtube.com/@RRSlugger) "Summer of Slug 2023" discord channel and has turned into am awesome community effort. Check out the video below.
+Star Mail is a fan built theme that imagines a world of competing space parcel delivery companies. It spawned out of a discussion I started in the [R.R. Slugger](https://www.youtube.com/@RRSlugger) "Summer of Slug 2023" discord channel and has turned into an awesome community effort. Check out the video below.
 
 {{<youtube g4PDmgxZ1Y8 >}}
 
@@ -15,7 +15,7 @@ My build is called "Rocket Rush Delivery" and is inspired by the classic [897-1 
 [![](/star-mail-rocket-rush-delivery-10497-alt-build.png)](/star-mail-rocket-rush-delivery-10497-alt-build.pdf)
 
 - [Studio File](/star-mail-rocket-rush-delivery-10497-alt-build.io)
-- [PDF Instructions](/star-mail-rocket-rush-delivery-10497-alt-build.pdf)
+- [PDF Instructions](/star-mailu-rocket-rush-delivery-10497-alt-build.pdf)
 - [Rebrickable](https://rebrickable.com/mocs/MOC-155654/bricktoad/star-mail-rocket-rush-delivery-10497-alt-build/#details)
 
 **Acknowledgments**
