@@ -16,7 +16,7 @@ The design was built only using parts I picked up cheap from Star Wars Minifig c
 
 - [Studio File](/star-mail-skyhook-75345-40557-alt-build.io)
 - [PDF Instructions](/star-mail-skyhook-75345-40557-alt-build.pdf)
-- [Rebrickable](https://rebrickable.com/mocs/MOC-155654/bricktoad/star-mail-rocket-rush-delivery-10497-alt-build/#details)
+- [Rebrickable](https://rebrickable.com/mocs/MOC-157461/bricktoad/star-mail-skyhook-75345-40557-alt-build/#details)
 
 {{< figure src="/star-mail-skyhook-build-75345-40557-alt-build.png" title="Timmy has gotten stuck in the future and is making a living working for Star Mail picking up mail containers using the Star Mail Skyhook." >}}
 
