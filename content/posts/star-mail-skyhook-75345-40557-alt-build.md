@@ -8,7 +8,7 @@ images:
 
 Star Mail is a fan built theme that imagines a world of competing space parcel delivery companies. It spawned out of a discussion I started in the [R.R. Slugger](https://www.youtube.com/@RRSlugger) "Summer of Slug 2023" discord channel.
 
-This build is called "Skyhook" and contains a hook on the back that can be lowered to pick up and drop off Star Mail containers. It is a small build but has a fun sturdy look.
+This build is called "Skyhook" and contains a hook on the back that can be lowered to pick up and drop off Star Mail containers. It is a small build but has a fun sturdy look. Also, importantly, when the hook is raised the ship lays flat for play and aerodynamic swooshing.
 
 [![](/star-mail-skyhook-play-75345-40557-alt-build.png)](/star-mail-skyhook-75345-40557-alt-build.pdf)
 
