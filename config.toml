@@ -1,4 +1,4 @@
-baseURL = 'http://bricktoad.com/'
+baseURL = 'https://bricktoad.com/'
 languageCode = 'en-us'
 title = 'Brick Toad'
 theme = 'hugo-xmin'
