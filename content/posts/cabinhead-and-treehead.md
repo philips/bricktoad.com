@@ -14,12 +14,12 @@ If you want to try your hand at building your own the instructions and parts lis
 
 **Treehead**
 - [Instructions](/treehead.pdf)
-- [Stud.io Files](/treehead.io)
+- [Bricklink Studio Files](/treehead.io)
 - [Buy Parts on Brick With](https://www.brickwith.com/en/part-list/share/kjzhconcn2g)
 
 **Cabinhead**
 - [Instructions](/cabinhead.pdf)
-- [Stud.io Files](/cabinhead.io)
+- [Bricklink Studio Files](/cabinhead.io)
 - [Buy Parts on Brick With](https://www.brickwith.com/en/part-list/share/2owwnjvbfbh)
 
 
