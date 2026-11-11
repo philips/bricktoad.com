@@ -6,7 +6,7 @@ images:
 - cabinhead-and-treehead-l.jpeg
 ---
 
-One of my kid's favorite books is Cabinhead and Treehead by Scott Campbell ([insta](https://www.instagram.com/heyscottcampbell/), [web](https://linktr.ee/heyscottcampbell). So, this year we built models of the titular characters.
+One of my kid's favorite books is Cabinhead and Treehead by Scott Campbell ([insta](https://www.instagram.com/heyscottcampbell/), [web](https://linktr.ee/heyscottcampbell)). So, this year we built models of the titular characters.
 
 ![brick models of treehead and cabinhead next to the book](/cabinhead-and-treehead-l.jpeg)
 
