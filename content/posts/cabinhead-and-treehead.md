@@ -23,11 +23,11 @@ If you want to try your hand at building your own the instructions and parts for
 
 ## Design Interation
 
-![](treehead-generations.png)
+![](/treehead-generations.png)
 
 The first challenge of capturing existing characters in bricks is figuring out a scale that works for the character to be "read" as what it is designed to represent. Originally, I tried a smaller scale than the roughly 6 x 6 stud scale I ended up with but after a few attempts it was clear that to capture the wideset eyes I would need some space.
 
-![](treehead-mouth.png)
+![](/treehead-mouth.png)
 
 The second challenge is deciding on the "mouth pose". Depending on the scene the characters have silly sort of chins/lips or big grins. I took a few swings at capturing the lips but in the end we agreed it wasn't reading right.
 
