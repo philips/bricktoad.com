@@ -1,9 +1,9 @@
 ---
-title: "Owlbear MOC"
-date: 2023-02-09T18:39:24-08:00
+title: "Brick Built Cabinhead and Treehead"
+date: 2026-11-11T18:39:24-08:00
 categories: [MOC]
 images:
-- owlbear-cover.png
+- cabinhead-and-treehead-l.jpeg
 ---
 
 One of my kid's favorite books is Cabinhead and Treehead by Scott Campbell ([insta](https://www.instagram.com/heyscottcampbell/), [web](https://linktr.ee/heyscottcampbell). So, this year we built models of the titular characters and the results look great to our eyes.
