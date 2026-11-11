@@ -1,7 +1,10 @@
 baseURL = 'https://bricktoad.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Brick Toad'
-theme = 'hugo-xmin'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/yihui/hugo-xmin'
 
 [menu]
 [[menu.main]]
